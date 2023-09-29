@@ -1,8 +1,9 @@
 import Header from "../../components/header/header";
 import astronauta from '../../assets/astronaut_jump.png'
 import { Astronauta } from "../forms/styledForm";
-import { Buttons, Direita, Fundo, Present, Question, SmallTitle } from "./styledHome";
+import { Buttons, Fundo, Present, Question, SmallTitle } from "./styledHome";
 import Purple from "../../components/buttons/purple/principal";
+
 
 function HomePage() {
     return(
